@@ -1,0 +1,2 @@
+# gitswitch
+Github Credentials Manager
