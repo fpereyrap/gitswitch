@@ -18,7 +18,7 @@ def select_value (config_options):
     print ("--------------")
     print ("")
     print ("0) Account1")
-    print ("1) Account2)
+    print ("1) Account2")
     print ("2) Account3")
     print ("")
     selected_value = input ("Enter your value: ")
